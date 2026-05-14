@@ -1,0 +1,103 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.pycover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.jupyter/
+.local/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# VS Code
+.vscode/
+
+# Project-specific ignored files and directories
+chroma_db/
+doc_store/
+ragas_results/
+data/
+scratch/
+.chainlit/
+.langgraph_api/
+indexing_progress_log.txt
+indexed_elements.txt
+indexed_pdfs.txt
+latest_report.md
+import\ os.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test files and redundant scripts
+test_cu.py
+test_cu_real.py
+test_ragas_json.py
+test_all_json.py
+research_analyst_pro.py
+indexer.ipynb
+chatbot.ipynb
+indexer_final.py
+others/

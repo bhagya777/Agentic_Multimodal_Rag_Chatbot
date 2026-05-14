@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "query_graph": "./rag_langgraph.py:query_graph",
+    "indexing_graph": "./rag_langgraph.py:indexing_graph"
+  },
+  "env": ".env"
+}
