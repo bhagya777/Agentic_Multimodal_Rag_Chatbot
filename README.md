@@ -27,6 +27,8 @@ A robust, agentic Multimodal Retrieval-Augmented Generation (RAG) system built t
 - `ragas_eval.py` / `run_batch_evals.py`: Scripts for running evaluations on agent responses.
 - `langgraph.json`: Configuration/state for the LangGraph agent.
 
+<img width="1330" height="654" alt="ss77" src="https://github.com/user-attachments/assets/40bf5c33-a539-461f-bff8-137b7edecd89" />
+
 ## Setup Instructions
 
 1. **Clone the repository:**
