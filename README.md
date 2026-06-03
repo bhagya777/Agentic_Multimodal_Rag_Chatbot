@@ -28,7 +28,9 @@ A robust, agentic Multimodal Retrieval-Augmented Generation (RAG) system built t
 - `langgraph.json`: Configuration/state for the LangGraph agent.
 
 <img width="1122" height="852" alt="ss66" src="https://github.com/user-attachments/assets/2ab2dc5e-9830-4b3a-acc6-072dd039ce43" />
+
 <img width="1096" height="837" alt="ss99" src="https://github.com/user-attachments/assets/8e541a60-2a54-4eec-8e7a-f46390cd0a1e" />
+
 <img width="1330" height="654" alt="ss77" src="https://github.com/user-attachments/assets/40bf5c33-a539-461f-bff8-137b7edecd89" />
 
 ## Setup Instructions
