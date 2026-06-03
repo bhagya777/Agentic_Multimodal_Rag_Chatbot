@@ -26,6 +26,9 @@ A robust, agentic Multimodal Retrieval-Augmented Generation (RAG) system built t
 - `dashboard.py`: Streamlit analytics dashboard for viewing RAGAS evaluation results.
 - `ragas_eval.py` / `run_batch_evals.py`: Scripts for running evaluations on agent responses.
 - `langgraph.json`: Configuration/state for the LangGraph agent.
+<br><br>
+<img width="1594" height="1006" alt="ss4 " src="https://github.com/user-attachments/assets/438b8e56-64d7-418e-8178-a397308b9d50" />
+<br><br>
 
 <img width="1122" height="852" alt="ss66" src="https://github.com/user-attachments/assets/2ab2dc5e-9830-4b3a-acc6-072dd039ce43" />
 <br><br>
